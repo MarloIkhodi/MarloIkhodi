@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! You can call me Marlon 🐻</h1>
+<h1 align="center" {display: inline}>Hello there! You can call me Marlon 🐻</h1>
 <h3 align="center">A dedicated fullstack developer with a thirst for wisdom</h3>
 
 <br/>
