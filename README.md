@@ -4,13 +4,10 @@
 <br/>
 
 <div align="center">
-    <img width=43% height="220" src="https://github-profile-trophy.vercel.app/?username=marloikhodi&theme=dracula&margin-w=5&margin-h=5&column=4&no-frame=true" alt="GitHub Trophy" />
-    <img width=54% height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=marloikhodi&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">    
-    <img width="58%" height="260" src="https://github-readme-stats.vercel.app/api?username=marloikhodi&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" /> 
-    <img  width="39%" height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=marloikhodi&show_icons=true&locale=en&theme=dracula&hide_border=true&layout=donut" />
+    <img width=43% src="https://github-profile-trophy.vercel.app/?username=marloikhodi&theme=dracula&margin-w=5&margin-h=5&column=4&no-frame=true" alt="GitHub Trophy" />
+    <img width=54% src="https://github-readme-streak-stats.herokuapp.com/?user=marloikhodi&theme=dracula&hide_border=true" alt="GitHub Streak" />    
+    <img width="58%" src="https://github-readme-stats.vercel.app/api?username=marloikhodi&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" /> 
+    <img  width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marloikhodi&show_icons=true&locale=en&theme=dracula&hide_border=true&layout=donut" />
 </div>
 
 <br/>
