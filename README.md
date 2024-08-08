@@ -12,7 +12,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,html,css,js,py,react,figma)
 
-<p><b>Building my skills in these programming languages and applications, with an emphasis on backend development</b></p>
+<p><b>Building my skills in these programming languages and applications, with an emphasis on backend development.</b></p>
 
 <h3 align="left">Where to find me:</h3>
 
