@@ -22,5 +22,5 @@
 <p><b>Building my skills in these programming languages and applications, with an emphasis on frontend development.</b></p>
 
 <h3 align="left">Where to find me:</h3>
-<a href="https://www.linkedin.com/in/deivid-marlon-abba8b309/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Icon"></a>
+<a href="https://www.linkedin.com/in/deivid-marlon/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Icon"></a>
 <a href="https://www.instagram.com/marlon.serafim" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon"></a>
